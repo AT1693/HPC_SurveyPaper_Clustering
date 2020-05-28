@@ -20,13 +20,13 @@ Primary references:
 
 ## Team
 ```
-Harsh Kataria
+Alarsh Tiwari
 Ambuje Gupta
 Souvik Mishra
 Rushil Goomer
-Alarsh Tiwari
+Harsh Kataria
 Sonali Mehta
-E17CSE(071,120,127,113,132,169)
+E17CSE(132,120,127,113,071,169)
 ```
 
 ## References
